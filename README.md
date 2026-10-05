@@ -1,7 +1,7 @@
 # My 3D Printing Project
 
 Here is a photo of the final printed result:
-![Final Print](images/
+![Final Print](
 PXL_20260905_203754008.jpg)
 
 ![Final Print](images/
