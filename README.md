@@ -7,7 +7,7 @@ Here is a photo of the final printed result:
 </p>
 
 ### 3D Model Preview
-Click the image below to open the interactive 3D viewer and inspect the STL file:
+Click below the image to open the interactive 3D viewer and inspect the STL file:
 
 <p align="center">
   <a href="Skateboard%20Brakelight%20Design%201.stl">
